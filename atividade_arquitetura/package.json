@@ -1,0 +1,15 @@
+{
+  "name": "atividade_arquitetura",
+  "version": "1.0.0",
+  "description": "primeira atividade de arquitetura de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "atividade_1_arquitura"
+  },
+  "author": "",
+  "license": "ISC"
+}
